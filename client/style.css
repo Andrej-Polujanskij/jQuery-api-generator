@@ -1,0 +1,9 @@
+img{
+  max-height: calc(100vh - 84px);
+}
+.spinner-border{
+  width: 80px;
+  height: 80px;
+  border-width: 8px;
+  display: none;
+}
